@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Java Docker App");
+        System.out.println("Hello Docker Java!");
     }
 }
